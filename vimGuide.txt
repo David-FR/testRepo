@@ -1,0 +1,8 @@
+******************************************************
+***********************Commands***********************
+*****************************************************
+
+Ctrl-E	scroll the window down
+Ctrl-Y	scroll the window up
+Ctrl-F	scroll down one page
+
